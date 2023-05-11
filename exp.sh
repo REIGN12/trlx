@@ -1,0 +1,1 @@
+accelerate launch --num_processes 7 --config_file configs/accelerate/zero2-bf16.yaml examples/hh/ppo_hh_gptj-rollout64-bs64-minibs4.py

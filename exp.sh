@@ -1,0 +1,1 @@
+accelerate launch --num_processes 7 --config_file configs/accelerate/zero2-bf16.yaml examples/hh/ppo_hh_gptj-ppoepoch2-steps20000.py

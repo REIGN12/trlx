@@ -5,5 +5,5 @@ bash exp.sh
 git checkout hh_exp/gptj-cosine
 bash exp.sh
 
-git checkout hh_exp/gptj-rollout64-bs64-minibs4
+git checkout hh_exp/vicuna-lr4e-6
 bash exp.sh
